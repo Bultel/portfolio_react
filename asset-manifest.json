@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio_react/static/css/main.90443bbb.chunk.css",
+    "main.js": "/portfolio_react/static/js/main.699cbb1b.chunk.js",
+    "main.js.map": "/portfolio_react/static/js/main.699cbb1b.chunk.js.map",
+    "runtime-main.js": "/portfolio_react/static/js/runtime-main.d32fb8f0.js",
+    "runtime-main.js.map": "/portfolio_react/static/js/runtime-main.d32fb8f0.js.map",
+    "static/js/2.3c75086c.chunk.js": "/portfolio_react/static/js/2.3c75086c.chunk.js",
+    "static/js/2.3c75086c.chunk.js.map": "/portfolio_react/static/js/2.3c75086c.chunk.js.map",
+    "index.html": "/portfolio_react/index.html",
+    "precache-manifest.e78b9497f4a56317fd2b48a444ddb3be.js": "/portfolio_react/precache-manifest.e78b9497f4a56317fd2b48a444ddb3be.js",
+    "service-worker.js": "/portfolio_react/service-worker.js",
+    "static/css/main.90443bbb.chunk.css.map": "/portfolio_react/static/css/main.90443bbb.chunk.css.map",
+    "static/js/2.3c75086c.chunk.js.LICENSE.txt": "/portfolio_react/static/js/2.3c75086c.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/portfolio_react/static/media/Questrial-Regular.37c8a1aa.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d32fb8f0.js",
+    "static/js/2.3c75086c.chunk.js",
+    "static/css/main.90443bbb.chunk.css",
+    "static/js/main.699cbb1b.chunk.js"
+  ]
+}
